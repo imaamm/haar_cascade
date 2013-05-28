@@ -17,7 +17,7 @@
 
 // Create a string that contains the exact cascade name
 const char* cascade_name =
-"/OpenCV/data/haarcascades/haarcascade_eye.xml";
+"/OpenCV/data/haarcascades/haarcascade_frontalface_alt.xml";
 /*    "haarcascade_profileface.xml";*/
 
 
